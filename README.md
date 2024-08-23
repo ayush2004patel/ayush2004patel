@@ -6,7 +6,7 @@
 </p>
 
 
-# 🌟 About Me
+## 🌟 About Me
 
 Hello! I'm **Ayush Patel**, a computer engineering student from Gujarat, India. With a passion for coding and a love for exploring new technologies, I'm always on the lookout for exciting challenges that push the boundaries of what I can create.
 
