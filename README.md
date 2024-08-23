@@ -22,7 +22,7 @@ I'm a computer engineering student from Gujarat. Passionate about programming an
 
 <!-- Tools and Technologies -->
 #### ⚡️Tools and Technologies:
-![My Skills](https://skillicons.dev/icons?i=git,github,postman,npm,netlify,vercel,appwrite,powershell,vscode,&theme=light&perline=6)
+![My Skills](https://skillicons.dev/icons?i=git,github,postman,npm,netlify,vercel,appwrite,powershell,vscode,&theme=light&perline=5)
 
 
 <!-- GitHub Stats -->
