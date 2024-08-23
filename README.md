@@ -46,7 +46,7 @@ I'm a computer engineering student from Gujarat. Passionate about programming an
 
 <!-- GitHub Stats -->
 <details>
-    <summary><ul>My github stats</ul></summary>
+    <summary><u>My github stats</u></summary>
     &nbsp;&nbsp;&nbsp;&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush2004patel&&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2004patel&theme=tokyonight" alt="GitHub Streak" />
   </details>
