@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=ayush2004patel&icon=0&color=0)](https://visitcount.itsvg.in)
+
 # 💫 About Me:
 I'm a computer engineering student from Gujarat. Passionate about programming and new technologies, I'm like a curious kid always eager to learn and explore cool stuff.
 
@@ -48,5 +50,3 @@ I'm a computer engineering student from Gujarat. Passionate about programming an
     &nbsp;&nbsp;&nbsp;&nbsp;<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayush2004patel&&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2004patel&theme=tokyonight" alt="GitHub Streak" />
   </details>
-
-[![](https://visitcount.itsvg.in/api?id=ayush2004patel&icon=0&color=0)](https://visitcount.itsvg.in)
