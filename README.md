@@ -1,5 +1,5 @@
 <!-- Visit Count Badge -->
-<p align="center" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; display: inline-block;">
+<p align="left" style="background-color: #1c1c1c; padding: 10px; border-radius: 10px; display: inline-block;">
     <a href="https://visitcount.itsvg.in" style="text-decoration: none;">
         <img src="https://visitcount.itsvg.in/api?id=ayush2004patel&icon=0&color=0" alt="Visit Count" style="border-radius: 5px;" />
     </a>
