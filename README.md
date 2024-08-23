@@ -49,5 +49,4 @@ I'm a computer engineering student from Gujarat. Passionate about programming an
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush2004patel&theme=tokyonight" alt="GitHub Streak" />
   </details>
 
----
 [![](https://visitcount.itsvg.in/api?id=ayush2004patel&icon=0&color=0)](https://visitcount.itsvg.in)
