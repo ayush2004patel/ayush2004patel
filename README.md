@@ -18,12 +18,11 @@ I'm a computer engineering student from Gujarat. Passionate about programming an
 
 <!-- Databases -->
 #### 🧵Databases:
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,&theme=light)
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,&theme=light&perline=5)
 
 <!-- Tools and Technologies -->
 #### ⚡️Tools and Technologies:
 ![My Skills](https://skillicons.dev/icons?i=git,github,postman,npm,netlify,vercel,appwrite,powershell,vscode,&theme=light&perline=5)
-
 
 <!-- GitHub Stats -->
 <details>
@@ -34,5 +33,3 @@ I'm a computer engineering student from Gujarat. Passionate about programming an
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ayush2004patel&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
