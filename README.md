@@ -2,8 +2,22 @@
 I'm a computer engineering student from Gujarat. Passionate about programming and new technologies, I'm like a curious kid always eager to learn and explore cool stuff.
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khushal-khandelwal) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/KhushalK_dev)
+<!-- Socials Links -->
+<h2 align="left">Connect with me🤝</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/ayush-patel2004/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/AyushPatel20_04" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/ayushpatel20_04/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="mailto:ayushpatel4021@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 <!-- Skills Section -->
 <h2 align="left">Skills🚀</h2>
@@ -27,25 +41,6 @@ I'm a computer engineering student from Gujarat. Passionate about programming an
 #### ⚡️Tools and Technologies:
 
 ![My Skills](https://skillicons.dev/icons?i=git,github,postman,npm,netlify,vercel,appwrite,powershell,vscode,&theme=dark&perline=5)
-
-
-<!-- Socials Links -->
-<h2 align="left">Connect with me🤝</h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/ayush-patel2004/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/AyushPatel20_04" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/ayushpatel20_04/" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:ayushpatel4021@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
 
 <!-- GitHub Stats -->
 <details>
