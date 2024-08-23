@@ -10,19 +10,19 @@ I'm a computer engineering student from Gujarat. Passionate about programming an
 
 <!-- Languages -->
 #### 🔥Languages:
-![My Skills](https://skillicons.dev/icons?i=html,css,java,js,ts,&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,java,js,ts,&theme=dark)
 
 <!-- Libraries and Frameworks -->
 #### ⛓️Libraries and Frameworks:
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,nodejs,express,vite,tailwind,bootstrap,&theme=light&perline=4)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,nodejs,express,vite,tailwind,bootstrap,&theme=dark&perline=4)
 
 <!-- Databases -->
 #### 🧵Databases:
-![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,&theme=light&perline=5)
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,&theme=dark&perline=5)
 
 <!-- Tools and Technologies -->
 #### ⚡️Tools and Technologies:
-![My Skills](https://skillicons.dev/icons?i=git,github,postman,npm,netlify,vercel,appwrite,powershell,vscode,&theme=light&perline=5)
+![My Skills](https://skillicons.dev/icons?i=git,github,postman,npm,netlify,vercel,appwrite,powershell,vscode,&theme=dark&perline=5)
 
 <!-- GitHub Stats -->
 <details>
