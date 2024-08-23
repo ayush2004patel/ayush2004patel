@@ -14,7 +14,7 @@ I'm a computer engineering student from Gujarat. Passionate about programming an
 
 <!-- Libraries and Frameworks -->
 #### ⛓️Libraries and Frameworks:
-![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,nodejs,vite,tailwind,bootstrap,&theme=light&perline=4)
+![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,nodejs,express,vite,tailwind,bootstrap,&theme=light&perline=4)
 
 <!-- Databases -->
 #### 🧵Databases:
