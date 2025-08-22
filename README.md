@@ -5,14 +5,6 @@
     </a>
 </p>
 
-
-
-<p align="left">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=ayush2004patel&icon=2&color=5" />
-    </a>
-</p>
-
 ## 🌟 About Me
 
 Hello! I'm **Ayush Patel**, a computer engineering student from Gujarat, India. With a passion for coding and a love for exploring new technologies, I'm always on the lookout for exciting challenges that push the boundaries of what I can create.
